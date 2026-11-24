@@ -1,0 +1,4 @@
+Previous mode: WARM
+Percept: (29, False)
+Target mode: ECO
+Outcome: SEND COMMAND
